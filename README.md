@@ -1,1 +1,4 @@
-# s2i-node.js
+node-echo
+=========
+
+node.js echo server, returns request data to response
